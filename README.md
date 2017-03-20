@@ -3,7 +3,7 @@ A short project on linux servers for udacity.
 
 ## Access Information
 SSH Address - IP: 52.86.200.44 Port: 22
-Application Url - [link](52.86.200.44)
+Application Url - [link](http://ec2-52-86-200-44.compute-1.amazonaws.com/)
 
 ## Software Used
 Operating System - Linux Ubuntu 16.04
