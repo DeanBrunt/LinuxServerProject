@@ -21,3 +21,8 @@ Additional Software Added -
 * passlib
 * itsdangerous
 * Flask-httpauth
+
+## Resources
+
+CSS from Bootstrap
+OAuth provided by Google
